@@ -6,6 +6,7 @@ Key Features:
 - A turn-based combat system that simulates boxing matches using attack/defense mechanics.
 - Concept of virtual currency for users to buy items at in-game store for use in combat. 
 - Implemented stat tracking for fighters, including health reduction, knockout conditions, and fight history.
+- Ref Class used to simulate boxing matches.
 - Use of file-based input/output for saving and loading fighter name and attributes as well as to save user data.
 
 Hidden Features:
