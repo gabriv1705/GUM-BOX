@@ -1,0 +1,28 @@
+{
+  "files": {
+    "Ref.cpp": [
+      {
+        "id": "89a2eef7-7fe9-4d51-a2b5-02daa222c64a",
+        "line": 60,
+        "version": 1,
+        "index": 1827
+      }
+    ],
+    "fighter.cpp": [
+      {
+        "id": "7de49401-0233-4835-83c4-86a1124d23d9",
+        "line": 21,
+        "version": 969,
+        "index": 519
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "37e6bdcb-aad4-4601-9de2-34b8dfd9f2b9",
+        "line": 26,
+        "version": 1,
+        "index": 745
+      }
+    ]
+  }
+}
