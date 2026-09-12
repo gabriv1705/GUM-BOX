@@ -1,4 +1,3 @@
-GUM-BOX
 This is a text-based boxing game in C++, featuring a dynamic fighter system, real-time match simulations, and strategic gameplay mechanics.
 
 Key Features:
